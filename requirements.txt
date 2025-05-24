@@ -1,4 +1,6 @@
 streamlit
 streamlit-authenticator
-openai
 langdetect
+openai
+pytest
+pytest-mock
